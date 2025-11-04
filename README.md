@@ -9,6 +9,7 @@ The goal of the project is to predict North American Sales of video games based 
 Four models were chosen to analyze the dataset. North American Sales is the response variable for all four models. Meterics such as $R^2$, Mean Squared Error (MSE), cross validation, and confusion matrics are used to evaluate the accuracy and reliability of each model.
 
 1. Linear Regression
-2. Decision Tree
-3. N/A
-4. N/A
+2. SVM
+3. Decision Tree
+4. Random Forest
+
